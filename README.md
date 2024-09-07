@@ -13,7 +13,7 @@ Essa é uma calculadora responsiva de IMC desenvolvida com HTML, CSS e JavaScrip
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
